@@ -1,13 +1,23 @@
 *{
     background-color: bisque;
 }
-h1{
+h1,h2{
     text-align: center;
     color: chocolate;
+}
+h1{
     font-size: 42px;
 }
-.list{
-    font-size: 20px;
+h2{
+    font-size: 28px;
+}
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p, ul, ol {
     text-align: center;
-    font-weight: bold;
+    font-size: 18px;
 }
